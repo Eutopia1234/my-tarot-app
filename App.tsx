@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { TarotTable } from 'TarotTable';
-import { IntroScreen } from 'IntroScreen';
+import { TarotTable } from './TarotTable';
+import { IntroScreen } from './IntroScreen';
 import { AppState } from './types';
-import { StarryBackground } from 'StarryBackground';
+import { StarryBackground } from './StarryBackground';
 import { Star } from 'lucide-react';
 
 export default function App() {
