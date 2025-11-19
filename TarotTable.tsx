@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import { AppState, DrawnCard, SpreadPosition } from '../types';
 import { FULL_DECK, SPREAD_POSITIONS, LOADING_MESSAGES } from '../constants';
 import { TarotCard } from './TarotCard';
-import { getTarotReading } from '../services/geminiService';
+import { getTarotReading } from './geminiService';
 import { RotateCcw, Feather, Hand } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 
