@@ -1,0 +1,5 @@
+{
+  "name": "Mystic Oracle Tarot",
+  "description": "A mystical tarot reading application using Gemini AI to interpret spreads for past, present, and future guidance.",
+  "requestFramePermissions": []
+}
