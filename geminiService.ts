@@ -50,7 +50,7 @@ export const getTarotReading = async (
 
   try {
     const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
+      model: 'gemini-1.5-flash',
       contents: prompt,
       config: {
         systemInstruction: "You are an ancient spirit. Your words are precious like gold and soft like velvet. You speak in the rhythm of tides. You MUST answer in CHINESE.",
