@@ -59,8 +59,11 @@ export default function App() {
           The cards reveal the shadows of the soul, illuminating paths of choice, not fixed destiny.
         </p>
       </footer>
-      <footer className="fixed bottom-2 w-full text-center text-xs text-gray-500 opacity-60 z-10">
-  Designed & Developed by <span className="text-yellow-500 font-bold">BY WU DHU</span> | AI Power
+<footer className="fixed bottom-0 left-0 w-full text-center py-4 bg-black/80 border-t border-white/20 z-50">
+  <p className="text-lg text-white font-medium tracking-wide">
+    Designed & Developed by <span className="text-yellow-400 font-bold text-xl mx-1">BY DHU WCL</span> | 
+  </p>
+</footer>
 </footer>
     </div>
   );
