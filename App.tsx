@@ -61,7 +61,7 @@ export default function App() {
       </footer>
 <footer className="fixed bottom-0 left-0 w-full text-center py-4 bg-black/80 border-t border-white/20 z-50">
   <p className="text-lg text-white font-medium tracking-wide">
-    Designed & Developed by <span className="text-yellow-400 font-bold text-xl mx-1">BY DHU WCL</span> | 
+    Designed & Developed by <span className="text-yellow-400 font-bold text-xl mx-1">BY DHU WCL</span> 
   </p>
 </footer>
     </div>
