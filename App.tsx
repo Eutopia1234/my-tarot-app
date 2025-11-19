@@ -64,7 +64,6 @@ export default function App() {
     Designed & Developed by <span className="text-yellow-400 font-bold text-xl mx-1">BY DHU WCL</span> | 
   </p>
 </footer>
-</footer>
     </div>
   );
 }
